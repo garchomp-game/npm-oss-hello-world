@@ -1,0 +1,32 @@
+{
+  "name": "garchomp-game-hello-world",
+  "version": "2.0.0",
+  "bin": {
+    "garchomp-game-hello-world": "index.js"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garchomp-game/npm-oss-hello-world.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/garchomp-game/npm-oss-hello-world/issues"
+  },
+  "homepage": "https://github.com/garchomp-game/npm-oss-hello-world#readme",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
